@@ -5,10 +5,10 @@ const Home = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>
-        M Y  G O A L S
+        PRETTY LITTLE BABY
       </Text>
       <Link style={styles.link} href="/goals">
-        View Your Goals
+        View my Future
       </Link>
       <Link style={styles.link} href="/goals/create">
         Add a New Goal
